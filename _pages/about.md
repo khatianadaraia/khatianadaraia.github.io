@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Candidate in Sociology at Unviersidad Carlos III de Madrid. 
+I am a PhD Candidate in Sociology at Universidad Carlos III de Madrid.
 
 ## Research Interests
 My research focuses on:
@@ -17,4 +17,6 @@ My research focuses on:
 ## Contact
 Feel free to reach out at <knadarai@clio.uc3m.es>
 
+---
 
+![Cat in Georgia](/images/cat-georgia.jpg)
