@@ -7,7 +7,7 @@ author_profile: true
 
 | Year | Course | Instructor(s) |
 |------|--------|---------------|
-| 2024 | Recent Developments in Longitudinal Data Analysis (GESIS Spring School) | Alexandru Cernat, Nick Shryane |
+| 2024 | Recent Developments in Longitudinal Data Analysis (GESIS (Leibniz Institute for the Social Sciences, Cologne) Spring School) | Alexandru Cernat, Nick Shryane |
 | 2024 | Spatial Analysis and Spatial Econometrics (UC3M) | Javier Barbero |
 | 2023 | Structural Equation Modeling (UC3M) | Modesto Escobar |
 | 2022 | Multilevel Analysis (UC3M) | Antonio M. Jaime Castillo |
