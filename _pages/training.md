@@ -12,5 +12,5 @@ author_profile: true
 Instructors: Alexandru Cernat, Nick Shryane
 
 
-**Spatial Analysis and Spatial Econometrics (UC3M, 2024)**
-Instructor: 
+**Spatial Analysis and Spatial Econometrics(UC3M,2024)**
+Instructor: Javier Barbero
