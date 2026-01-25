@@ -17,7 +17,7 @@ My research focuses on:
 
 ## Background
 
-I am from Georgia. A small village in the western part of Georgia, Ledgebe. I grew up there, then my parents migrated to Tbilisi, as most rural state employees in Georgia did. Both of them were school teachers. Their generation lived the collapse: the end of salaries, the disintegration of institutions, the migration to Tbilisi, the entry into informal work and debt.
+I am from Georgia. A small village in the western part of Georgia, Ledgebe. I grew up there, then my parents migrated to Tbilisi, as most rural state employees in Georgia did. Both of them were school teachers. Their generation lived the collapse: the disintegration of institutions, the migration to Tbilisi, the entry into informal work and debt.
 
 The Soviet system employed large numbers of educated personnel in rural areas: teachers in village schools, nurses in district clinics, accountants and agronomists on collective farms, librarians and cultural workers in local institutions. These rural state employees were not elite, but neither were they collective farmers or industrial workers. They held credentials, earned salaries, and occupied a distinct position in the Soviet social structure. In Georgia, as elsewhere in the Soviet Union, they constituted the institutional infrastructure of the state in the countryside.
 
