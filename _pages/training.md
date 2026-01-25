@@ -10,3 +10,7 @@ author_profile: true
 *Recent Developments in Longitudinal Data Analysis*
 
 Instructors: Alexandru Cernat, Nick Shryane
+
+
+**Spatial Analysis and Spatial Econometrics (UC3M, 2024)**
+Instructor: 
