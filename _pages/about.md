@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Sociology at Universidad Carlos III de Madrid.
-
 ## Research Interests
 My research focuses on:
 - Stratification
