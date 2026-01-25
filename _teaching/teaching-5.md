@@ -1,11 +1,11 @@
 ---
-title: "Comparative Sociology"
+title: "Peace and Conflict Resolution"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/teaching-1
+permalink: /teaching/teaching-5
 venue: "Universidad Carlos III de Madrid"
-date: 2023-09-01
+date: 2019-01-01
 location: "Madrid, Spain"
 ---
 
-Lead Teacher: Sergio Galaz Garcia
+Lead Teacher: Ignacio Sanchez-Cuenca
