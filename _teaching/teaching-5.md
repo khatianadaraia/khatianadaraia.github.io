@@ -8,4 +8,4 @@ date: 2019-01-01
 location: "Madrid, Spain"
 ---
 
-Lead Teacher: Ignacio Sanchez-Cuenca
+Teaching Assistant for Prof. Ignacio Sánchez-Cuenca. Spring 2019.

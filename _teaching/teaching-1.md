@@ -8,4 +8,4 @@ date: 2023-09-01
 location: "Madrid, Spain"
 ---
 
-Lead Teacher: Sergio Galaz Garcia
+Teaching Assistant for Prof. Galaz García, Sergio. Fall 2023.

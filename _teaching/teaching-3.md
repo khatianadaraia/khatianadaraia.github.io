@@ -8,4 +8,4 @@ date: 2021-09-01
 location: "Madrid, Spain"
 ---
 
-Lead Teacher: Alfonso Echazarra de Gregorio
+Teaching Assistant for Prof. Alfonso Echazarra de Gregorio. Fall 2021.

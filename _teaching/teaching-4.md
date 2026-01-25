@@ -8,4 +8,4 @@ date: 2020-09-01
 location: "Madrid, Spain"
 ---
 
-Lead Teacher: Ignacio Jurado Nebreda
+Teaching Assistant for Prof. Ignacio Jurado Nebreda. Fall 2020.
