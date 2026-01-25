@@ -15,6 +15,6 @@ My research focuses on:
 - Health Inequalities
 
 ## Contact
-Feel free to reach out at [knadarai@clio.uc3m.es
-(mailto:knadarai@clio.uc3m.es)
+Feel free to reach out at <knadarai@clio.uc3m.es>
+
 
