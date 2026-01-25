@@ -6,4 +6,4 @@ permalink: /publication/cognitive-aging
 date: 2023-01-01
 ---
 
-This study explores how childhood socioeconomic conditions shape memory decline trajectories in the EU Countries among individuals age 50 and over, drawing on SHARE longitudinal data.
+This paper examines how childhood socioeconomic conditions shape memory-decline trajectories across EU countries among individuals aged 50 and over, using longitudinal data from SHARE.
