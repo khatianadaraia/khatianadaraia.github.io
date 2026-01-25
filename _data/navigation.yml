@@ -1,7 +1,7 @@
 # Navigation menu
 
 main:
-  - title: "Research"
+  - title: "Working Papers"
     url: /publications/
 
   - title: "Teaching"
