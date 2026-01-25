@@ -7,6 +7,6 @@ venue: "Universidad Carlos III de Madrid"
 date: 2023-09-01
 location: "Madrid, Spain"
 ---
-Teaching Assistant. Fall 2023.
+Lead Teacher: Galaz García, Sergio
 
 
