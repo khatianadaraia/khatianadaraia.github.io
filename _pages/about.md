@@ -25,7 +25,7 @@ Thirty-five years have passed. Many remain where they arrived, still in Tbilisi'
 
 This was my first sociological observation. And here I am now.
 
-P.S. The cat is from the yard of the Monastery of St. Nino at Bodbe. I hope she is still alive. If not, I guess she wouldn't bother either.
+P.S. The cat is from the backyard of the Monastery of St. Nino at Bodbe. I hope she is still alive. If not, I guess she wouldn't bother either. 
 
 ## Contact
 Feel free to reach out at <knadarai@clio.uc3m.es>
