@@ -13,13 +13,11 @@ My research focuses on:
 - Quantitative Methods
 - Health Inequalities
 
-
-
-P.S. The cat is from the backyard of the Monastery of St. Nino at Bodbe. I hope she is still alive. If not, I guess she wouldn't bother either. 
-
 ## Contact
 Feel free to reach out at <knadarai@clio.uc3m.es>
 
 ---
 
 ![Cat in Georgia](/images/cat-georgia.jpg)
+
+*P.S. The cat is from the backyard of the Monastery of St. Nino at Bodbe. I hope she is still alive. If not, I guess she wouldn't bother either.*
