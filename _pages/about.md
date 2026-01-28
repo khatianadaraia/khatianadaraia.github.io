@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-## Research Interests
-
-- Stratification
 - Political Sociology
+- Stratification
 - Quantitative Methods
 - Health Inequalities
 
