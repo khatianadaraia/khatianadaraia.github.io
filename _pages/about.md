@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Research Interests
+
 - Political Sociology
 - Stratification
 - Quantitative Methods
