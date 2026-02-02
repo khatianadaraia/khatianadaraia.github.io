@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Statistical Visualizations"
+title: "Statistical Visualisations"
 permalink: /stats-visuals/
 author_profile: true
 ---
