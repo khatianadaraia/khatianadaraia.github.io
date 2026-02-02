@@ -29,6 +29,10 @@ That last term (Education × Experience) is the **interaction term**. It creates
 
 *A true saddle analogy works better for interactions where one effect is positive and another is negative—for example, a treatment that helps young people but hurts older people, or a policy that benefits one group while disadvantaging another.*
 
+![True Saddle Interaction](/images/saddle_interaction.png)
+
+The saddle surface above illustrates this: the same treatment produces **opposite effects** depending on age. Young people (blue lines) benefit from higher doses, while older people (red lines) are harmed. At age 45, the effect is zero—the pivot point of the saddle.
+
 **Right panel (2D lines):**  Each line shows how education affects income *at different levels of experience*:
 - Lower lines: With fewer years of experience, more education increases income gradually
 - Upper lines: With more years of experience, more education increases income *much more steeply*
