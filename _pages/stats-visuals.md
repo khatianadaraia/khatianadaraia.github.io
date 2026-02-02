@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-A collection of geometric and visual explanations of statistical concepts designed for undergraduate sociology students. While teaching various methods courses to social science students, I have realised that the most effectiveapproach is to frame statistical concepts through geometry. This allows students to grasp the underlying logic more easily; the visual representations are tangible mental model that stays with them long after abstract definitions fade.
- 
-I am currently working on an ambitious project to compile these insights into a free e-book. I believe in making these visual methods accessible to everyone, so I’ll be sharing updates and excerpts here periodically. Stay tuned!
+A collection of geometric and visual explanations of statistical concepts designed for undergraduate sociology students. While teaching a methods course to social science students, I have realised that the most effective approach is to frame statistical concepts through geometry. This allows students to grasp the underlying logic more easily; the visual representations are tangible mental models that stay with them long after abstract definitions fade.
+
+I am currently working to compile these insights into a free e-book. I believe in making these visual methods accessible to everyone, so I'll be sharing updates and excerpts here periodically.
  
 
 ---
