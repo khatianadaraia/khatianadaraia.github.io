@@ -11,7 +11,7 @@ A collection of geometric and visual explanations of statistical concepts for un
 
 ## Interaction Effects
 
-**The key insight:** An interaction effect means the effect of one variable on the outcome *depends on* the level of another variable.
+An interaction effect means the effect of one variable on the outcome *depends on* the level of another variable.
 
 ### Example: Education, Experience, and Income
 
@@ -21,7 +21,7 @@ That last term (Education × Experience) is the **interaction term**. It creates
 
 ![Interaction Effects Visualization](/images/interaction_effects.png)
 
-**Left panel (3D surface):** Shows how income changes across both education and experience simultaneously. Notice the surface isn't flat—it twists like a saddle.
+**Left panel (3D surface):** Shows how income changes across both education and experience simultaneously. Notice the surface isn't flat—it twists like a saddle.When thinking about interactions, visualising a saddle surface can beincredibly helpful. If you enjoy geometry and visual learning, you can read more about this shape at the link below:https://en.wikipedia.org/wiki/Saddle_point 
 
 **Right panel (2D lines):** The same relationship, but easier to interpret. Each line shows how education affects income *at different levels of experience*:
 - Green line: With only 5 years of experience, more education increases income gradually
