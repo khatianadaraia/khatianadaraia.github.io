@@ -25,11 +25,13 @@ That last term (Education × Experience) is the **interaction term**. It creates
 
 ![Interaction Effects Visualization](/images/interaction_effects.png)
 
-**Left panel (3D surface):** Shows how income changes across both education and experience simultaneously. Notice the surface isn't flat—it twists like a saddle.When thinking about interactions, visualising a saddle surface can be incredibly helpful. If you enjoy geometry and visual learning, you can read more about this shape at the link below: https://en.wikipedia.org/wiki/Saddle_point 
+**Left panel (3D surface):** Shows how income changes across both education and experience simultaneously. Notice the surface isn't flat—it twists into a warped plane. This is not a true saddle surface (which curves up in one direction and down in another). Here, both education and experience increase income; the interaction term simply makes the slope steeper when both are high.
+
+*A true saddle analogy works better for interactions where one effect is positive and another is negative—for example, a treatment that helps young people but hurts older people, or a policy that benefits one group while disadvantaging another.*
 
 **Right panel (2D lines):**  Each line shows how education affects income *at different levels of experience*:
-- Green line: With only 5 years of experience, more education increases income gradually
-- Purple line: With 25 years of experience, more education increases income *much more steeply*
+- Lower lines: With fewer years of experience, more education increases income gradually
+- Upper lines: With more years of experience, more education increases income *much more steeply*
 
 **The key:** The lines are **not parallel**. If there were no interaction, all three lines would be parallel (education would have the same effect regardless of experience). The fact that they fan out shows that education "pays off" more for people with more experience.
 
