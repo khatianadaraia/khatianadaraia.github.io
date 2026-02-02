@@ -13,7 +13,13 @@ I am currently working to compile these insights into a free e-book. I believe i
 
 ---
 
-## Interaction Effects
+
+### Why Sociologists Care About Interactions
+
+Interaction effects reveal **conditional relationships**—the answer to "it depends" questions:
+- Does education affect income the same way for men and women?
+- Does parental SES matter more or less depending on the country's level of inequality?
+
 
 An interaction effect means the effect of one variable on the outcome *depends on* the level of another variable.
 
@@ -25,13 +31,7 @@ That last term (Education × Experience) is the **interaction term**. It creates
 
 ![Interaction Effects Visualization](/images/interaction_effects.png)
 
-**Left panel (3D surface):** Shows how income changes across both education and experience simultaneously. Notice the surface isn't flat—it twists into a warped plane. This is not a true saddle surface (which curves up in one direction and down in another). Here, both education and experience increase income; the interaction term simply makes the slope steeper when both are high.
-
-*A true saddle analogy works better for interactions where one effect is positive and another is negative—for example, a treatment that helps young people but hurts older people, or a policy that benefits one group while disadvantaging another.*
-
-![True Saddle Interaction](/images/saddle_interaction.png)
-
-The saddle surface above illustrates this: the same treatment produces **opposite effects** depending on age. Young people (blue lines) benefit from higher doses, while older people (red lines) are harmed. At age 45, the effect is zero—the pivot point of the saddle.
+**Left panel (3D surface):** Shows how income changes across both education and experience simultaneously.Here, both education and experience increase income; the interaction term simply makes the slope steeper when both are high.
 
 **Right panel (2D lines):**  Each line shows how education affects income *at different levels of experience*:
 - Lower lines: With fewer years of experience, more education increases income gradually
@@ -39,12 +39,15 @@ The saddle surface above illustrates this: the same treatment produces **opposit
 
 **The key:** The lines are **not parallel**. If there were no interaction, all three lines would be parallel (education would have the same effect regardless of experience). The fact that they fan out shows that education "pays off" more for people with more experience.
 
-### Why Sociologists Care About Interactions
 
-Interaction effects reveal **conditional relationships**—the answer to "it depends" questions:
-- Does education affect income the same way for men and women?
-- Does parental SES matter more or less depending on the country's level of inequality?
-- Does discrimination vary by context?
+
+
+
+*A saddle analogy works for interactions where one effect is positive and another is negative—for example, a treatment that helps young people but hurts older people, or a policy that benefits one group while disadvantaging another.*
+
+![True Saddle Interaction](/images/saddle_interaction.png)
+
+The saddle surface above illustrates this: the same treatment produces **opposite effects** depending on age. Young people (blue lines) benefit from higher doses, while older people (red lines) are harmed. At age 45, the effect is zero. If you enjoy imagining world in shapes read more about saddle surface on this link: https://en.wikipedia.org/wiki/Saddle_point
 
 ---
 
@@ -91,4 +94,4 @@ The ellipse shows association, not causation. Two variables can have a beautiful
 
 ---
 
-*More visualizations coming soon...*
+*More visualisations coming soon...*
