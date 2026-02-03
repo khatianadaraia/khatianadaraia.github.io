@@ -10,7 +10,6 @@ A collection of geometric and visual explanations of statistical concepts design
 
 I am currently working to compile these insights into a free e-book. I believe in making these visual methods accessible to everyone, so I'll be sharing updates and excerpts here periodically.
  
-
 ---
 
 
@@ -95,3 +94,4 @@ The ellipse shows association, not causation. Two variables can have a beautiful
 ---
 
 *More visualisations coming soon...*
+
