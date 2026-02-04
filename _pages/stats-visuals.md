@@ -6,17 +6,13 @@ author_profile: true
 ---
 
 
-A collection of geometric and visual explanations of statistical concepts designed for undergraduate sociology students. While teaching a methods course to social science students, I have realised that the most effective approach is to frame statistical concepts through geometry. This allows students to grasp the underlying logic more easily; the visual representations are tangible mental models that stay with them long after abstract definitions fade.
+A collection of geometric and visual explanations of statistical concepts designed for undergraduate sociology students. While teaching a methods course to social science students, I have realised that the most effective approach is to frame statistical concepts through geometry. This allows students to grasp the underlying logic more easily; the visual representations are mental models that stay with them long after abstract definitions fade. I am currently working to compile these insights into a free e-book. I believe in making these visual methods accessible to everyone, so I will be sharing updates and excerpts here periodically.
 
-I am currently working to compile these insights into a free e-book. I believe in making these visual methods accessible to everyone, so I'll be sharing updates and excerpts here periodically.
+<p style="color: red; font-weight: bold;">⚠️ WARNING:</p>
 
-<p style="color: red; font-weight: bold;">⚠️ WARNING: PRELIMINARY INSIGHTS</p>
+<p style="color: red;">Please note that the visual frameworks shared here are often experimental improvisations and have not undergone formal scientific peer review by professional statisticians.They may contain technical inaccuracies or oversimplifications  </p>
 
-<p style="color: red;">Please note that the visual frameworks shared here are often experimental improvisations. </p>
-
-<p style="color: red;">These visual frameworks have not undergone formal peer review by professional statisticians. While these visuals are designed to spark creative thinking, they may contain technical inaccuracies or oversimplifications.</p>
-
-<p style="color: red;"><strong>Use at your own discretion:</strong> Always verify these insights against established statistical methods before using them for critical decision-making or formal research.</p>
+<p style="color: red;"><strong>Use at your own discretion:</strong> Always verify information before using it for formal research. Also, feel free to email me if you notice any significant technical inaccuracies or oversimplifications. Let's work together to make learning statistics intuitive for social science students. </p>
 
 ---
 
