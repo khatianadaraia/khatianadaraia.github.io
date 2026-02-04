@@ -12,17 +12,16 @@ A collection of geometric and visual explanations of statistical concepts design
 
 <p style="color: red;">Please note that the visual frameworks shared here are often experimental improvisations and have not undergone formal scientific peer review by professional statisticians.They may contain technical inaccuracies or oversimplifications  </p>
 
-<p style="color: red;"><strong>Use at your own discretion:</strong> Always verify information before using it for formal research. Also, feel free to email me if you notice any significant technical inaccuracies or oversimplifications. Let's work together to make learning statistics intuitive for social science students. </p>
+ <p style="color: red;"> Feel free to email me if you notice any significant technical inaccuracies or oversimplifications. Let's work together to make learning statistics intuitive for social science students. </p>
 
 ---
 
 
 ### Why Sociologists Care About Interactions
 
-Interaction effects reveal **conditional relationships**—the answer to "it depends" questions:
+Interaction effects reveal **conditional relationships**,the answer to "it depends" questions:
 - Does education affect income the same way for men and women?
 - Does parental SES matter more or less depending on the country's level of inequality?
-
 
 An interaction effect means the effect of one variable on the outcome *depends on* the level of another variable.
 
@@ -42,15 +41,12 @@ That last term (Education × Experience) is the **interaction term**. It creates
 
 **The key:** The lines are **not parallel**. If there were no interaction, all three lines would be parallel (education would have the same effect regardless of experience). The fact that they fan out shows that education "pays off" more for people with more experience.
 
-
-
-
-
-*A saddle analogy works for interactions where one effect is positive and another is negative—for example, a treatment that helps young people but hurts older people, or a policy that benefits one group while disadvantaging another.*
+*A saddle analogy works for interactions where one effect is positive and another is negative, for example, a treatment that helps young people but hurts older people, or a policy that benefits one group while disadvantaging another.*
 
 ![True Saddle Interaction](/images/saddle_interaction.png)
 
-The saddle surface above illustrates this: the same treatment produces **opposite effects** depending on age. Young people (blue lines) benefit from higher doses, while older people (red lines) are harmed. At age 45, the effect is zero. If you enjoy imagining world in shapes read more about saddle surface on this link: https://en.wikipedia.org/wiki/Saddle_point
+The saddle surface above illustrates this: the same treatment produces **opposite effects** depending on age. Young people (blue lines) benefit from higher doses, while older people (red lines) are harmed. 
+If you enjoy imagining world in shapes read more about saddle surface on this link: https://en.wikipedia.org/wiki/Saddle_point
 
 ---
 
@@ -83,7 +79,7 @@ Geometrically, this makes sense. The "shape" of the relationship doesn't care wh
 
 Look at the bottom-right panel: a perfect circle.
 
-In a cigar-shaped ellipse, you can see a "corridor"—a trend, a path through the data.
+In a cigar-shaped ellipse, you can see a "corridor", a trend, a path through the data.
 
 In a circle, **there is no corridor**. There is no direction. There is only noise.
 
