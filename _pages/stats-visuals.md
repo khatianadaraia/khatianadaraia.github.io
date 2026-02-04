@@ -12,9 +12,9 @@ I am currently working to compile these insights into a free e-book. I believe i
 
 <p style="color: red; font-weight: bold;">⚠️ WARNING: PRELIMINARY INSIGHTS</p>
 
-<p style="color: red;">Please note that the methods and visual frameworks shared in this book are currently experimental improvisations based on personal intuition and observation.</p>
+<p style="color: red;">Please note that the visual frameworks shared here are often experimental improvisations. </p>
 
-<p style="color: red;">These concepts have not undergone formal scientific or peer review by professional statisticians. While these tools are designed to spark creative thinking, they may contain technical inaccuracies or oversimplifications.</p>
+<p style="color: red;">These visual frameworks have not undergone formal peer review by professional statisticians. While these visuals are designed to spark creative thinking, they may contain technical inaccuracies or oversimplifications.</p>
 
 <p style="color: red;"><strong>Use at your own discretion:</strong> Always verify these insights against established statistical methods before using them for critical decision-making or formal research.</p>
 
