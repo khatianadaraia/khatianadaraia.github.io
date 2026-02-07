@@ -93,7 +93,7 @@ The ellipse shows association, not causation. Two variables can have a beautiful
 
 ---
 
-## Instrumental Variables: A Geometric Journey
+## Instrumental Variables
 
 **Contributed by [Kavyanjali Kaushik](https://kavyanjalik.github.io/)**
 
