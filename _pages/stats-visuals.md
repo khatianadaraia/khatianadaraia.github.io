@@ -93,5 +93,22 @@ The ellipse shows association, not causation. Two variables can have a beautiful
 
 ---
 
+## Instrumental Variables: A Geometric Journey
+
+**Contributed by [Kavyanjali Kaushik](https://kavyanjalik.github.io/)**
+
+This interactive visualization walks you through the geometric intuition behind instrumental variables — one of the most powerful tools for causal inference when experiments aren't possible.
+
+The visualization guides you through five stages:
+1. **The Tangled Web** — How confounding creates a mess between treatment and outcome
+2. **The Instrument Appears** — Introducing a lever that only moves treatment
+3. **Pull the Lever** — Creating clean variation through the instrument
+4. **Filter the Signal** — Isolating only the variation caused by the instrument
+5. **Pure Causation** — Revealing the true causal effect
+
+<a href="/instrumental-variables.html" target="_blank" style="display: inline-block; background-color: #2563eb; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">Launch Interactive Visualization</a>
+
+---
+
 *More visualisations coming soon...*
 
