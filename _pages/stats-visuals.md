@@ -97,7 +97,7 @@ The ellipse shows association, not causation. Two variables can have a beautiful
 
 **Contributed by [Kavyanjali Kaushik](https://kavyanjalik.github.io/)**
 
-This interactive visualization walks you through the geometric intuition behind instrumental variables — one of the most powerful tools for causal inference when experiments aren't possible.
+This interactive visualization walks you through the intuition behind instrumental variables, one of the most powerful tools for causal inference when experiments aren't possible.
 
 The visualization guides you through five stages:
 1. **The Tangled Web** — How confounding creates a mess between treatment and outcome
