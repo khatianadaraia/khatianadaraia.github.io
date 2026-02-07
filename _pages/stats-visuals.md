@@ -95,7 +95,7 @@ The ellipse shows association, not causation. Two variables can have a beautiful
 
 ## Instrumental Variables
 
-**Contributed by [Kavyanjali Kaushik](https://kavyanjalik.github.io/)**
+**Created by [Kavyanjali Kaushik](https://kavyanjalik.github.io/)**
 
 This interactive visualization walks you through the intuition behind instrumental variables, one of the most powerful tools for causal inference when experiments aren't possible.
 
