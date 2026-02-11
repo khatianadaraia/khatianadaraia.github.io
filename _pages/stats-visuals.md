@@ -12,7 +12,7 @@ A collection of geometric and visual explanations of statistical concepts design
 
 <p style="color: red;">Please note that the visual frameworks shared here are often experimental improvisations and have not undergone formal scientific peer review by professional statisticians.They may contain technical inaccuracies or oversimplifications  </p>
 
- <p style="color: red;"> Feel free to email me if you notice any significant technical inaccuracies or oversimplifications. Let's work together to make learning statistics intuitive for social science students. </p>
+ <p style="color: red;"> Feel free to email me if you notice any significant technical inaccuracies or oversimplifications. </p>
 
 ---
 
