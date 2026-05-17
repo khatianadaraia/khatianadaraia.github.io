@@ -8,23 +8,17 @@ redirect_from:
 ---
 
 
+
+
+
 Over the years, I have become increasingly interested in medical sociology and the sociology of disease. 
 Back in 2019, I began reading about stress, inflammation, and the psychosocial processes that source social stress. 
 I still find this field of research fascinating and continue to work on it. Lately, I have also been reading about “power”,
 an elusive concept, and its connection with shame (though nothing Foucauldian). Let's see what comes of it.
 
+Research Interests: - Political Sociology; - Stratification; - Quantitative Methods; - Health Inequalities
 
 
-Research Interests 
-- Political Sociology
-- Stratification
-- Quantitative Methods
-- Health Inequalities
-
-
-
-## Contact
-Feel free to reach out at <knadarai@clio.uc3m.es>
 
 ---
 
