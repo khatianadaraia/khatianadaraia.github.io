@@ -23,5 +23,6 @@ Research Interests: Political Sociology;  Stratification;  Quantitative Methods;
 
 ![Cat in Georgia](/images/cat-georgia.jpg)
 
+🐾 P.S. I love cats 🐱
 
-P.S. The cat is from the gardens of the Monastery of St. Nino at Bodbe,the Caucasus mountains standing quiet behind her.
+The cat is from the gardens of the Monastery of St. Nino at Bodbe, the Caucasus mountains standing quiet behind her.
