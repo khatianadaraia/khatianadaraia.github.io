@@ -126,7 +126,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification :18CnDRtJ-T9WOW00c9GiIYklcW2Sln7ibLCg_kl3ir8
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -151,10 +151,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4"
   google:
-    tracking_id          :
-
+    tracking_id          : "G-8345GEEKWV"
 
 # Reading Files
 include:
