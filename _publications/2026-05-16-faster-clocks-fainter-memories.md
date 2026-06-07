@@ -1,5 +1,5 @@
 ---
-title: "Faster Clocks, Fainter Memories: The Role of Socioeconomic Status in Childhood and Adulthood on the Pace of Ageing and Memory Function"
+title: "Faster Clock, Fainter Memories: Socioeconomic Position, Biological Ageing and Memory Function"
 collection: publications
 category: workingpapers
 permalink: /publication/faster-clocks-fainter-memories
