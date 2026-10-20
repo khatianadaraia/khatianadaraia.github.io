@@ -10,7 +10,7 @@ A collection of geometric and visual explanations of statistical concepts design
 
 <p style="color: red; font-weight: bold;">⚠️ WARNING:</p>
 
-<p style="color: red;">Please note that the visual frameworks shared here are often experimental improvisations and have not undergone formal scientific peer review by professional statisticians.They may contain technical inaccuracies or oversimplifications  </p>
+<p style="color: red;">Please note that the visual frameworks shared here are often experimental improvisations and have not undergone formal scientific peer review by professional statisticians. They may contain technical inaccuracies or oversimplifications.</p>
 
  <p style="color: red;"> Feel free to email me if you notice any significant technical inaccuracies or oversimplifications. </p>
 
@@ -19,7 +19,7 @@ A collection of geometric and visual explanations of statistical concepts design
 
 ### Why Sociologists Care About Interactions
 
-Interaction effects reveal **conditional relationships**,the answer to "it depends" questions:
+Interaction effects reveal **conditional relationships**, the answer to "it depends" questions:
 - Does education affect income the same way for men and women?
 - Does parental SES matter more or less depending on the country's level of inequality?
 
@@ -33,7 +33,7 @@ That last term (Education × Experience) is the **interaction term**. It creates
 
 ![Interaction Effects Visualization](/images/interaction_effects.png)
 
-**Left panel (3D surface):** Shows how income changes across both education and experience simultaneously.Here, both education and experience increase income; the interaction term simply makes the slope steeper when both are high.
+**Left panel (3D surface):** Shows how income changes across both education and experience simultaneously. Here, both education and experience increase income; the interaction term simply makes the slope steeper when both are high.
 
 **Right panel (2D lines):**  Each line shows how education affects income *at different levels of experience*:
 - Lower lines: With fewer years of experience, more education increases income gradually
@@ -46,7 +46,7 @@ That last term (Education × Experience) is the **interaction term**. It creates
 ![True Saddle Interaction](/images/saddle_interaction.png)
 
 The saddle surface above illustrates this: the same treatment produces **opposite effects** depending on age. Young people (blue lines) benefit from higher doses, while older people (red lines) are harmed. 
-If you enjoy imagining world in shapes read more about saddle surface on this link: https://en.wikipedia.org/wiki/Saddle_point
+If you enjoy imagining the world in shapes, read more about saddle surfaces here: [Saddle point](https://en.wikipedia.org/wiki/Saddle_point).
 
 ---
 

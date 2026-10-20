@@ -14,7 +14,7 @@ I am also interested in building tools that make information retrieval transpare
 
 
 
-Research Interests: Political Sociology;  Stratification;  Quantitative Methods; Health Inequalities
+Research Interests: Political Sociology; Stratification; Quantitative Methods; Health Inequalities
 
 
 
