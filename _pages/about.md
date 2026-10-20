@@ -7,16 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-My research examines how social origin shapes the Pace of Biological Ageing (PoA), how perceptions of one’s own social status affect health, and how trajectories of wellbeing and self-rated health vary across countries in relation to macro-level context. I am currently completing [PhD studies in Social Sciences at Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/social-sciences#home){:target="_blank"}. This work grew out of a long-standing interest in these questions. Around 2019, I began reading about stress, inflammation, and the psychosocial roots of social stress.
+I am a social researcher. I work with large longitudinal survey data to study how social conditions shape health and wellbeing over the life course. I also build tools that make evidence review more transparent.
 
-I am also interested in building tools that make information retrieval transparent. Standard AI tools based on generative networks predict by minimising error. This contributes to the so-called black box problem, and when such tools are used to summarise evidence, they can introduce serious misinterpretations of what a source actually claims. Currently, I am building an evidence extraction tool for Social Science research. To this end, I am developing [CatEye](https://cat-eye.streamlit.app/){:target="_blank"}, an open-access semantic evidence extraction tool. It is a two-stage retrieval framework that combines a bi-encoder with cross-encoder reranking, maps PDF libraries onto a user-defined conceptual skeleton, and returns exact passages with source attribution (non-generative). The current version is an early proof of concept.
+I am completing a [PhD in Social Sciences at Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/social-sciences#home){:target="_blank"} (thesis submitted October 2026, defence December 2026). Before the PhD, I worked on research and evaluation at Georgia's Ministry of Education and Science, and on studies for UNFPA and UN Women.
 
+My research examines how social origin shapes the pace of biological ageing, how perceptions of one's own social status affect health, and how trajectories of wellbeing and self-rated health vary across countries in relation to macro-level context.
 
-
-
-Research Interests: Political Sociology; Stratification; Quantitative Methods; Health Inequalities
-
-
+Standard AI tools based on generative networks predict by minimising error. When such tools are used to summarise evidence, they can misstate what a source actually claims. I am developing [CatEye](https://cat-eye.streamlit.app/){:target="_blank"}, an open-access semantic evidence extraction tool. It maps PDF libraries onto a user-defined conceptual structure and returns exact passages with source attribution, without generating text. The current version is an early proof of concept.
 
 ---
 
