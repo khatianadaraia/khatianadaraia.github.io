@@ -7,29 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a social researcher. I work with large longitudinal survey data to study how social conditions shape health and wellbeing over the life course. I also build tools that make evidence review more transparent.
+I am a social researcher. I use large longitudinal survey data to study how social conditions affect health and wellbeing during the life course. I also develop a tool for transparent evidence review.
 
-I am completing a [PhD in Social Sciences at Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/social-sciences#home){:target="_blank"} (thesis submitted October 2026, defence December 2026). Before the PhD, I worked on research and evaluation at Georgia's Ministry of Education and Science, and on studies for UNFPA and UN Women.
+I am completing a [PhD in Social Sciences at Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/social-sciences#home){:target="_blank"}. I submitted my thesis in October 2026, and the defence is in December 2026. Before the PhD, I worked in research and evaluation at the Ministry of Education and Science of Georgia. I also conducted studies for UNFPA and UN Women.
 
-My research has two strands.
+My research has two parts.
 
-The first is **neurocognitive ageing**: how the ability to remember, learn and process information changes as people age, and why people differ so much in how well they keep these abilities. Using long-running surveys from Europe and the United States, I study how socioeconomic and relational conditions in childhood relate to memory in later life.
+The first part is **neurocognitive ageing**. This field studies how memory, learning and processing speed change with age, and why these changes differ between individuals. I use long-term surveys from Europe and the United States to study how social and family conditions in childhood affect memory in later life.
 
-The second strand examines how social origin shapes the pace of biological ageing, how perceptions of one's own social status affect health, and how trajectories of wellbeing and self-rated health vary across countries in relation to macro-level context.
+The second part is about social status and health. I study how social origin affects the pace of biological ageing. I also study how people's perception of their own social status affects their health. Finally, I compare how wellbeing and self-rated health change over time in different countries.
 
-**Open questions in neurocognitive ageing that guide my work**
+**Open questions in neurocognitive ageing**
 
-- Does early disadvantage lower the level at which people enter later life, or does it also speed up decline?
-- Through which channels does childhood reach the ageing brain: through education and income, or through routes that bypass them, such as the home environment and early relationships with parents?
-- Is memory a marker of accumulated stress?
-- How much of memory decline is specific to memory, and how much is shared with general cognitive ageing?
+- Does disadvantage in childhood only lower the level of memory at the start of later life? Or does it also make the decline faster?
+- How do childhood conditions reach the ageing brain? Do they act through education and income, or through other routes, such as the home environment and relationships with parents?
+- Is memory a marker of stress that accumulates during life?
+- Which part of memory decline is specific to memory, and which part is general cognitive ageing?
 
-Standard AI tools based on generative networks predict by minimising error. When such tools are used to summarise evidence, they can misstate what a source actually claims. I am developing [CatEye](https://cat-eye.streamlit.app/){:target="_blank"}, an open-access semantic evidence extraction tool. It maps PDF libraries onto a user-defined conceptual structure and returns exact passages with source attribution, without generating text. The current version is an early proof of concept.
+**CatEye**
+
+Generative AI tools predict the most probable text. When researchers use these tools to summarise evidence, the tools can misrepresent what a source says. For this reason, I am developing [CatEye](https://cat-eye.streamlit.app/){:target="_blank"}, an open-access tool that extracts evidence from documents. The user supplies a library of PDF documents and a set of concepts. CatEye finds the passages that match each concept and returns the exact text with its source. It does not generate new text. The current version is an early proof of concept.
 
 ---
 
 ![Cat in Georgia](/images/cat-georgia.jpg)
 
-🐾 I love cats 
+🐾 I love cats.
 
-The cat is from the gardens of the Monastery of St. Nino at Bodbe, with the Caucasus mountains standing behind her.
+This cat lives in the gardens of the Monastery of St. Nino at Bodbe, Georgia. The Caucasus mountains are behind her.
