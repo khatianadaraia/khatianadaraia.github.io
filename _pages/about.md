@@ -17,8 +17,10 @@ I also study social status and health: how social origin affects the pace of bio
 
 ## Open questions in neurocognitive ageing
 
-- Does disadvantage in childhood only lower the level of memory at the start of later life? Or does it also make the decline faster?
-- How do childhood conditions reach the ageing brain? Do they act through education and income, or through other routes, such as the home environment and relationships with parents?
+- Does disadvantage in childhood only lower memory in later life, or does it also change how fast memory declines?
+- Which aspects of childhood matter most (material resources, the learning environment at home, or the quality of care), and do they act only through later education and income?
+- Does education protect memory in later life, or does it mostly reflect differences that exist before schooling ends?
+- How much do the answers depend on who survives to old age, who stays in a study, and whether memory tests measure the same thing across countries?
 
 ## CatEye
 
