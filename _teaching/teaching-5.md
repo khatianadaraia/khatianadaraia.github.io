@@ -1,11 +1,15 @@
 ---
-title: "Peace and Conflict Resolution"
+title: "Security, Peace and Conflict Resolution"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching-5
 venue: "Universidad Carlos III de Madrid"
-date: 2019-01-01
+date: 2019-02-01
 location: "Madrid, Spain"
 ---
 
-Lead Teacher: Ignacio Sánchez-Cuenca
+Academic year 2018/19, second semester  
+Lead Teacher: Ignacio Sánchez-Cuenca  
+Group 56: Bachelor's Degree in International Studies
+
+Spanish course title: Seguridad, Paz y Resolución de Conflictos. Faculty of Social Sciences and Law, Getafe campus.
