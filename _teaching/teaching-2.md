@@ -10,7 +10,7 @@ location: "Madrid, Spain"
 
 Academic year 2022/23, first semester  
 Lead Teacher: Alfonso Echazarra de Gregorio  
-Group 18: Double Degree in International Studies and Law  
-Group 118: Double Degree in International Studies and Law
-
-Spanish course title: Sociología Comparada. Faculty of Social Sciences and Law, Getafe campus.
+Asignatura: Sociología Comparada  
+Centro: Facultad de Ciencias Sociales y Jurídicas (Getafe)  
+Titulación: Doble Grado en Estudios Internacionales y Derecho (group 18)  
+Titulación: Doble Grado en Estudios Internacionales y Derecho (group 118)

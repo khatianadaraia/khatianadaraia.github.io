@@ -10,6 +10,6 @@ location: "Madrid, Spain"
 
 Academic year 2019/20, second semester  
 Lead Teacher: Ignacio Sánchez-Cuenca  
-Group 56: Bachelor's Degree in International Studies
-
-Spanish course title: Seguridad, Paz y Resolución de Conflictos. Faculty of Social Sciences and Law, Getafe campus.
+Asignatura: Seguridad, paz y resolución de conflictos  
+Centro: Facultad de Ciencias Sociales y Jurídicas (Getafe)  
+Titulación: Grado en Estudios Internacionales (group 56)

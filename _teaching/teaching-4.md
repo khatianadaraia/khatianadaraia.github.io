@@ -10,6 +10,6 @@ location: "Madrid, Spain"
 
 Academic year 2020/21, second semester  
 Lead Teacher: Ignacio Jurado Nebreda  
-Group 53: Bachelor's Degree in Philosophy, Politics and Economics
-
-Spanish course title: Metodología de Investigación en Ciencia Política. Faculty of Social Sciences and Law, Getafe campus.
+Asignatura: Metodología de Investigación en ciencia política  
+Centro: Facultad de Ciencias Sociales y Jurídicas (Getafe)  
+Titulación: Grado en Filosofía, Política y Economía (group 53)
