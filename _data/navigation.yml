@@ -1,4 +1,4 @@
-# Navigation menu
+ Navigation menu
 
 main:
    - title: "Working Papers"
@@ -12,3 +12,4 @@ main:
 
   - title: "About Me"
     url: /
+
