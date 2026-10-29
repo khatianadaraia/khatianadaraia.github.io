@@ -1,3 +1,6 @@
+
+<!--
+
 ---
 layout: archive
 title: "Statistical Visualisations"
@@ -111,4 +114,4 @@ The visualization guides you through five stages:
 ---
 
 *More visualisations coming soon...*
-
+-->
