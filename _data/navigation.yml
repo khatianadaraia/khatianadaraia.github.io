@@ -1,14 +1,14 @@
 # Navigation menu
 
 main:
-  - title: "Working Papers"
+   - title: "Working Papers"
     url: /working-papers/
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Stats Visuals"
-    url: /stats-visuals/
+ # - title: "Stats Visuals"
+   # url: /stats-visuals/
 
   - title: "Methodological Training"
     url: /training/
