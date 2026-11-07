@@ -15,13 +15,6 @@ My main research area is **neurocognitive ageing**. This field studies how memor
 
 I also study social status and health: how social origin affects the pace of biological ageing, how people's perception of their own social status affects their health, and how wellbeing and self-rated health change over time in different countries.
 
-## Open questions in neurocognitive ageing
-
-- Does disadvantage in childhood only lower memory in later life, or does it also change how fast memory declines?
-- Which aspects of childhood matter most (material resources, the learning environment at home, or the quality of care), and do they act only through later education and income?
-- Does education protect memory in later life, or does it mostly reflect differences that exist before schooling ends?
-- How much do the answers depend on who survives to old age, who stays in a study, and whether memory tests measure the same thing across countries?
-
 ## CatEye
 
 Generative AI tools predict the most probable text. When researchers use these tools to summarise evidence, the tools can misrepresent what a source says. For this reason, I am developing [CatEye](https://cat-eye.streamlit.app/){:target="_blank"}, an open-access tool that extracts evidence from documents. The user supplies a library of PDF documents and a set of concepts. CatEye finds the passages that match each concept and returns the exact text with its source. It does not generate new text. The current version is an early proof of concept.
