@@ -17,7 +17,7 @@ I also study social status and health: how social origin affects the pace of bio
 
 ## CatEye
 
-Generative AI tools predict the most probable text. When researchers use these tools to summarise evidence, the tools can misrepresent what a source says. For this reason, I am developing [CatEye](https://cat-eye.streamlit.app/){:target="_blank"}, an open-access tool that extracts evidence from documents. The user supplies a library of PDF documents and a set of concepts. CatEye finds the passages that match each concept and returns the exact text with its source. It does not generate new text. The current version is an early proof of concept.
+I am developing [CatEye](https://cat-eye.streamlit.app/){:target="_blank"}, an open-access tool that extracts evidence from documents. The user supplies a library of PDF documents and a set of concepts. CatEye finds the passages that match each concept and returns the exact text with its source. It does not generate new text. The current version is an early proof of concept.
 
 ---
 
