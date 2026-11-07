@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a quantitative sociologist researching social stratification, the life course and health. My [PhD in Social Sciences](https://www.uc3m.es/phdprogram/social-sciences#home){:target="_blank"} (2020–2026) at Universidad Carlos III de Madrid investigates the social etiology of health inequalities: whether early developmental environments and subjective perceptions of one's place in social hierarchies become embodied in physical and neurocognitive outcomes. I hold a [Master in Social Sciences](https://ijlinz.es/posgrados/master-ciencias-sociales/){:target="_blank"} from Universidad Carlos III de Madrid (Juan Linz Institute).
+I am a quantitative sociologist researching social stratification, the life course and health. My [PhD in Social Sciences](https://www.uc3m.es/phdprogram/social-sciences#home){:target="_blank"} (2020–2026) at Universidad Carlos III de Madrid, advised by Javier Polavieja, investigates the social etiology of health inequalities: whether early developmental environments and subjective perceptions of one's place in social hierarchies become embodied in physical and neurocognitive outcomes. I hold a [Master in Social Sciences](https://ijlinz.es/posgrados/master-ciencias-sociales/){:target="_blank"} from Universidad Carlos III de Madrid (Juan Linz Institute).
 
 ## CatEye
 
