@@ -9,7 +9,7 @@ redirect_from:
 
 I am a social researcher. I use large longitudinal survey data to study how social conditions affect health and wellbeing during the life course. I also develop a tool for transparent evidence review.
 
-I am completing a [PhD in Social Sciences at Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/social-sciences#home){:target="_blank"}. I submitted my thesis in October 2026, and the defence is in December 2026. Before the PhD, I worked in research and evaluation at the Ministry of Education and Science of Georgia. I also conducted studies for UNFPA and UN Women.
+I am completing a [PhD in Social Sciences at Universidad Carlos III de Madrid](https://www.uc3m.es/phdprogram/social-sciences#home){:target="_blank"}.
 
 My main research area is **neurocognitive ageing**. This field studies how memory, learning and processing speed change with age, and why these changes differ between individuals. I use long-term surveys from Europe and the United States to study how social and family conditions in childhood affect memory in later life.
 
